@@ -8,3 +8,4 @@
 (Тестовый прогон для Корзины и Оплаты)
 [https://github.com/KGavrilenko-Turknas/Web/commit/87b2eeec782cff6973d7ae03a3414b35de1d73c8]
 (Отчет о дефектах для Корзины и Оплаты)
+[https://github.com/KGavrilenko-Turknas/Web/commit/4134bc97a489e638c24f34366d6a45a52d8fe577]
